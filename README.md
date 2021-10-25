@@ -9,5 +9,5 @@ The course is an introduction to basic computational methods for understanding n
 
 File discrition:
 * Certificate of completion.pdf: My certification of completion of Computational Neuroscience course
-* Computational_Neuroscience_Notes: It is my scanned notes of Computational Neuroscience course 
+* Computational_Neuroscience_Notes.pdf: It is my scanned notes of Computational Neuroscience course 
 
